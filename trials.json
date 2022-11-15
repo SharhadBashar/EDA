@@ -1,0 +1,15 @@
+[{"name":"KN001",
+	"internal_id":"KN001",
+	"trial_arms":
+		[{"name":"Pembrolizumab",
+			"params":{"type":"active comparator"},
+			"type":"active comparator",
+			"regimen":
+				[{"name":"Pembrolizumab",
+					"treatments":[{"drug_id":"pembrolizumab"}]
+				}]
+			}]
+	}
+
+
+[{'name': 'phase 3', 'internal_id': 20221104, 'trial_arms': [{'name': '1.3', 'type': 'experimental', 'params': {'type': 'experimental'}, 'regimen': [{'name': '1.3', 'treatments': [{'drug_id': 'get_drug_id()'}]}]}, {'name': '1.6', 'type': 'experimental', 'params': {'type': 'experimental'}, 'regimen': [{'name': '1.6', 'treatments': [{'drug_id': 'get_drug_id()'}]}]}, {'name': '1.9', 'type': 'experimental', 'params': {'type': 'experimental'}, 'regimen': [{'name': '1.9', 'treatments': [{'drug_id': 'get_drug_id()'}]}]}, {'name': 'P', 'type': 'active comparator', 'params': {'type': 'active comparator'}, 'regimen': [{'name': 'P', 'treatments': [{'drug_id': 'get_drug_id()'}]}]}]}]
